@@ -1,0 +1,29 @@
+body {
+  background: url(https://images.unsplash.com/photo-1482434368596-fbd06cae4f89?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: leto;
+  color: white;
+}
+html {
+  height: 100%;
+}
+
+#content {
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0px 4px 3px rgb(112, 69, 61), 0px 6px 10px rgb(151, 135, 82),
+    0px 12px 10px rgb(112, 136, 136);
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+hr {
+  width: 350px;
+  border-top: 1px solid #f8f8f8;
+  border-radius: 1px solid rgb(0, 0, 0, 0.2);
+}
